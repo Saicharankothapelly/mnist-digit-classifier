@@ -12,7 +12,7 @@ Ensure you have Python installed (preferably Python 3.8 or later).
 
 ## Installation
 1. **Clone the Repository**
-   git clone https://github.com/your-repo/mnist-digit-classifier.git
+   git clone https://github.com/Saicharankothapelly/mnist-digit-classifier.git
    
 
 2. **Create a Virtual Environment**
@@ -28,14 +28,7 @@ Ensure you have Python installed (preferably Python 3.8 or later).
 python app.py
 
 
-## Project Structure
-mnist-digit-classifier/
-│── static/               # Static files (CSS, JS, images)
-│── templates/            # HTML templates
-│── model/                # Pre-trained model files
-│── app.py                # Main application script
-│── requirements.txt      # List of dependencies
-│── README.md             # Documentation
+
 
 ## Usage
 1. Open the web app in a browser.

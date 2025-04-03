@@ -1,6 +1,6 @@
 flask==2.2.5
 numpy==1.24.4
-tensorflow==2.14.0
+tensorflow==2.17.0
 pandas==1.5.3
 opencv-python==4.5.5.64
 scikit-learn==1.2.2
